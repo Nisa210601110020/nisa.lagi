@@ -6,6 +6,10 @@ li {
   list-style: none;
 }
 
+img {
+  height:50px;
+  width:70px;
+}
 .header {
   background-color: #26d0c9;
   color: #fff;
